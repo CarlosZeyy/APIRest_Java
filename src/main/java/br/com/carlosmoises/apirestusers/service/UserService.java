@@ -1,7 +1,7 @@
 package br.com.carlosmoises.apirestusers.service;
 
-import br.com.carlosmoises.apirestusers.Controllers.CreateUserDto;
-import br.com.carlosmoises.apirestusers.Controllers.UpdateUserDto;
+import DTO.CreateUserDto;
+import DTO.UpdateUserDto;
 import br.com.carlosmoises.apirestusers.entity.User;
 import br.com.carlosmoises.apirestusers.repository.UserRepository;
 import jakarta.persistence.EntityNotFoundException;
