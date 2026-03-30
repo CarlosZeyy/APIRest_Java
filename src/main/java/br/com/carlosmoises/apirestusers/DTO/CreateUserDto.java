@@ -1,4 +1,4 @@
-package DTO;
+package br.com.carlosmoises.apirestusers.DTO;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 

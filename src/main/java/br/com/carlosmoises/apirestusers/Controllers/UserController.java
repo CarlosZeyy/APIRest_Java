@@ -1,7 +1,7 @@
 package br.com.carlosmoises.apirestusers.Controllers;
 
-import DTO.CreateUserDto;
-import DTO.UpdateUserDto;
+import br.com.carlosmoises.apirestusers.DTO.CreateUserDto;
+import br.com.carlosmoises.apirestusers.DTO.UpdateUserDto;
 import br.com.carlosmoises.apirestusers.entity.User;
 import br.com.carlosmoises.apirestusers.service.UserService;
 import io.swagger.v3.oas.annotations.Operation;
